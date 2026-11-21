@@ -1,0 +1,258 @@
+{
+  "personal": {
+    "name_en": "Mohamadreza Ghorbani",
+    "name_fa": "محمدرضا قربانی",
+    "photo": "assets/img/profile.jpg",
+    "cv_file": "assets/files/cv.pdf",
+    "email": "mreza@me.com",
+    "phone": "+989354055240",
+    "linkedin": "https://www.linkedin.com/in/mrezagh/",
+    "github": "",
+    "telegram": "",
+    "freelance_en": "Available",
+    "freelance_fa": "آماده همکاری",
+    "degree_en": "Master of Science in Information Technology",
+    "degree_fa": "کارشناسی ارشد فناوری اطلاعات",
+    "experience_en": "10+ Years",
+    "experience_fa": "+۱۰ سال",
+    "titles_en": [
+      "IT and Low Voltage Systems Supervisor",
+      "Network Specialist",
+      "Cybersecurity Enthusiast",
+      "Skilled in Airport IT Infrastructure",
+      "Open to Global Opportunities"
+    ],
+    "titles_fa": [
+      "سرپرست سیستم‌های جریان ضعیف و فناوری اطلاعات",
+      "متخصص شبکه",
+      "علاقه‌مند به امنیت سایبری",
+      "مهارت در زیرساخت فناوری اطلاعات فرودگاهی",
+      "آماده برای فرصت‌های جهانی"
+    ],
+    "about_en": [
+      "Experienced IT Infrastructure Project Manager and Cybersecurity Specialist with a strong background in delivering large-scale network and IT solutions for mission-critical environments such as international airports. Adept at leading cross-functional teams through all project phases—from initial design and installation to ongoing optimization and maintenance—ensuring high performance and operational reliability.",
+      "Skilled in Network Infrastructure Design, Data Center Management, Storage Solutions (Tape & SAN), and Cybersecurity. Proven proficiency with Cisco equipment (switches, firewalls, routers), Building Management Systems (Siemens), and Security Systems (CCTV, Access Control). Experienced in implementing robust security measures, monitoring network integrity, and mitigating potential threats to safeguard sensitive systems.",
+      "Holds a Master's degree in Information Technology and a solid understanding of cybersecurity best practices, contributing to the design and deployment of secure, resilient, and scalable IT infrastructures.",
+      "In addition to my professional experience, I am passionate about being a Google Maps guide and contributor, exploring the world of mining and cryptocurrency, and capturing moments through photography."
+    ],
+    "about_fa": [
+      "مدیر پروژه زیرساخت فناوری اطلاعات و متخصص امنیت سایبری با تجربه، با سابقه قوی در ارائه راهکارهای شبکه و IT در مقیاس بزرگ برای محیط‌های حیاتی مانند فرودگاه‌های بین‌المللی. مهارت در رهبری تیم‌های چندوظیفه‌ای در تمام مراحل پروژه - از طراحی اولیه و نصب تا بهینه‌سازی و نگهداری مداوم.",
+      "مهارت در طراحی زیرساخت شبکه، مدیریت مرکز داده، راهکارهای ذخیره‌سازی (Tape & SAN) و امنیت سایبری. تسلط اثبات شده بر تجهیزات سیسکو (سوئیچ‌ها، فایروال‌ها، روترها)، سیستم‌های مدیریت ساختمان (زیمنس) و سیستم‌های امنیتی (دوربین مداربسته، کنترل دسترسی).",
+      "دارای مدرک کارشناسی ارشد در فناوری اطلاعات و درک قوی از بهترین شیوه‌های امنیت سایبری، کمک به طراحی و استقرار زیرساخت‌های IT امن، پایدار و مقیاس‌پذیر.",
+      "علاوه بر تجربه حرفه‌ای، علاقه‌مند به فعالیت به عنوان راهنمای Google Maps و مشارکت‌کننده، کاوش در دنیای استخراج و رمزارزها و ثبت لحظات از طریق عکاسی هستم."
+    ]
+  },
+  "stats": {
+    "years": 14,
+    "clients": 10,
+    "projects": 17
+  },
+  "skills": [
+    {
+      "name_en": "Network Infrastructure Design",
+      "name_fa": "طراحی زیرساخت شبکه",
+      "percent": 95
+    },
+    {
+      "name_en": "Data Center Management",
+      "name_fa": "مدیریت مرکز داده",
+      "percent": 90
+    },
+    {
+      "name_en": "Cybersecurity",
+      "name_fa": "امنیت سایبری",
+      "percent": 90
+    },
+    {
+      "name_en": "Linux System Administration",
+      "name_fa": "مدیریت سیستم لینوکس",
+      "percent": 85
+    },
+    {
+      "name_en": "Python Programming",
+      "name_fa": "برنامه‌نویسی پایتون",
+      "percent": 75
+    },
+    {
+      "name_en": "Building Management Systems (BMS)",
+      "name_fa": "سیستم‌های مدیریت ساختمان (BMS)",
+      "percent": 85
+    }
+  ],
+  "experience": [
+    {
+      "title_en": "Low Current Systems Engineering Supervisor",
+      "title_fa": "سرپرست مهندسی سیستم‌های جریان ضعیف",
+      "company_en": "Tolid Malzoomat Bargh (TMB)",
+      "company_fa": "تولید ملزومات برق (TMB)",
+      "date_en": "December 2022 - Present",
+      "date_fa": "آذر ۱۴۰۱ - تاکنون",
+      "desc_en": "Led implementation of critical low current systems at Kish International Airport, including Building Management Systems (Siemens), Fire Alarm Systems (Siemens), Network Infrastructure (Cisco), and CCTV/Access Control (Bosch). Ensured seamless integration and high operational standards.",
+      "desc_fa": "رهبری پیاده‌سازی سیستم‌های حیاتی جریان ضعیف در فرودگاه بین‌المللی کیش، شامل سیستم‌های مدیریت ساختمان (زیمنس)، سیستم‌های اعلام حریق (زیمنس)، زیرساخت شبکه (سیسکو) و دوربین مداربسته/کنترل دسترسی (بوش)."
+    },
+    {
+      "title_en": "Technical Manager",
+      "title_fa": "مدیر فنی",
+      "company_en": "Honar Shahr Aftab",
+      "company_fa": "هنر شهر آفتاب",
+      "date_en": "January 2022 - January 2024",
+      "date_fa": "دی ۱۴۰۰ - دی ۱۴۰۲",
+      "desc_en": "Managed the launch of Mica Cineplex, featuring three halls and advanced cinematic technologies (D-CINEMA, E-CINEMA, Qube DCP players). Integrated self-ticketing machines and smart automation systems to enhance efficiency and user experience.",
+      "desc_fa": "مدیریت راه‌اندازی پردیس سینمایی میکا، با سه سالن و فناوری‌های پیشرفته سینمایی (D-CINEMA, E-CINEMA, Qube DCP players). یکپارچه‌سازی دستگاه‌های فروش خودکار بلیط و سیستم‌های اتوماسیون هوشمند."
+    },
+    {
+      "title_en": "Site Manager",
+      "title_fa": "مدیر سایت",
+      "company_en": "IRITCO",
+      "company_fa": "ایریتکو (IRITCO)",
+      "date_en": "May 2020 - May 2022",
+      "date_fa": "اردیبهشت ۱۳۹۹ - اردیبهشت ۱۴۰۱",
+      "desc_en": "Designed and implemented robust IT infrastructure for Kish International Airport, incorporating Data Center Solutions (Tape/SAN storage, UTM systems) and Cisco network technologies. Ensured optimal performance and security compliance.",
+      "desc_fa": "طراحی و پیاده‌سازی زیرساخت قوی IT برای فرودگاه بین‌المللی کیش، با ترکیب راهکارهای مرکز داده (ذخیره‌سازی Tape/SAN، سیستم‌های UTM) و فناوری‌های شبکه سیسکو."
+    },
+    {
+      "title_en": "IT Specialist",
+      "title_fa": "کارشناس فناوری اطلاعات",
+      "company_en": "University of Tehran",
+      "company_fa": "دانشگاه تهران",
+      "date_en": "November 2018 - June 2020",
+      "date_fa": "آبان ۱۳۹۷ - خرداد ۱۳۹۹",
+      "desc_en": "Deployed VMware Horizon View VDI infrastructure, converted old hardware into PXE zero clients, and installed Ubiquiti UniFi Video Surveillance Systems. Created an immersive virtual tour of the university campus using GoPro Max and Pano2VR.",
+      "desc_fa": "استقرار زیرساخت VDI با VMware Horizon View، تبدیل سخت‌افزارهای قدیمی به زیروکلاینت‌های PXE و نصب سیستم‌های نظارت تصویری UniFi یوبی‌کوئیتی. ایجاد تور مجازی از پردیس دانشگاه."
+    },
+    {
+      "title_en": "IT Systems Administrator",
+      "title_fa": "مدیر سیستم‌های فناوری اطلاعات",
+      "company_en": "Kishwood Industries",
+      "company_fa": "صنایع کیش‌وود",
+      "date_en": "February 2013 - February 2018",
+      "date_fa": "بهمن ۱۳۹۱ - بهمن ۱۳۹۶",
+      "desc_en": "Installed, configured, and maintained critical systems (Active Directory, Exchange Server, Elastix VOIP, VMware ESXi). Provided user support, optimized network performance, and ensured reliable connectivity through WAN/LAN configurations.",
+      "desc_fa": "نصب، پیکربندی و نگهداری سیستم‌های حیاتی (Active Directory, Exchange Server, Elastix VOIP, VMware ESXi). ارائه پشتیبانی به کاربران و بهینه‌سازی عملکرد شبکه."
+    }
+  ],
+  "education": [
+    {
+      "degree_en": "Master of Science in Information Technology",
+      "degree_fa": "کارشناسی ارشد فناوری اطلاعات",
+      "university_en": "University of Tehran",
+      "university_fa": "دانشگاه تهران",
+      "date_en": "2018 - 2021",
+      "date_fa": "۱۳۹۷ - ۱۴۰۰",
+      "desc_en": "Completed a rigorous program focusing on advanced IT concepts, including cybersecurity, network management, and data center solutions. Developed expertise in designing secure, resilient, and scalable IT infrastructures.",
+      "desc_fa": "تکمیل دوره تحصیلی با تمرکز بر مفاهیم پیشرفته فناوری اطلاعات، شامل امنیت سایبری، مدیریت شبکه و راهکارهای مرکز داده."
+    },
+    {
+      "degree_en": "Bachelor of Science in Information Technology",
+      "degree_fa": "کارشناسی فناوری اطلاعات",
+      "university_en": "Payame Noor University",
+      "university_fa": "دانشگاه پیام نور",
+      "date_en": "2013 - 2017",
+      "date_fa": "۱۳۹۲ - ۱۳۹۶",
+      "desc_en": "Gained foundational knowledge in IT systems, software development, and network administration. Actively participated in projects that enhanced practical skills in system design and implementation.",
+      "desc_fa": "کسب دانش بنیادین در سیستم‌های IT، توسعه نرم‌افزار و مدیریت شبکه. مشارکت فعال در پروژه‌های عملی."
+    }
+  ],
+  "certifications": [
+    {
+      "title_en": "IPv6 Fundamentals - Analyst",
+      "title_fa": "مبانی IPv6 - تحلیلگر",
+      "issuer_en": "RIPE NCC",
+      "issuer_fa": "RIPE NCC",
+      "date_en": "Dec 2024 - Dec 2027",
+      "date_fa": "آذر ۱۴۰۳ - آذر ۱۴۰۶",
+      "desc_en": "Demonstrates expertise in IPv6 protocols, addressing schemes, and network configurations.",
+      "desc_fa": "نشان‌دهنده تخصص در پروتکل‌های IPv6، طرح‌های آدرس‌دهی و پیکربندی‌های شبکه."
+    },
+    {
+      "title_en": "Penetration Testing Professional Certificate",
+      "title_fa": "گواهینامه حرفه‌ای تست نفوذ",
+      "issuer_en": "Cybrary",
+      "issuer_fa": "سایبراری (Cybrary)",
+      "date_en": "Oct 2024",
+      "date_fa": "مهر ۱۴۰۳",
+      "desc_en": "Validates skills in ethical hacking, vulnerability assessment, and penetration testing methodologies.",
+      "desc_fa": "تأیید مهارت‌ها در هک اخلاقی، ارزیابی آسیب‌پذیری و روش‌های تست نفوذ."
+    },
+    {
+      "title_en": "Career Essentials in Cybersecurity",
+      "title_fa": "مبانی ضروری امنیت سایبری",
+      "issuer_en": "Microsoft and LinkedIn",
+      "issuer_fa": "مایکروسافت و لینکدین",
+      "date_en": "Sep 2024",
+      "date_fa": "شهریور ۱۴۰۳",
+      "desc_en": "Covers foundational cybersecurity concepts, threat management, and risk mitigation strategies.",
+      "desc_fa": "پوشش مفاهیم بنیادین امنیت سایبری، مدیریت تهدید و استراتژی‌های کاهش ریسک."
+    },
+    {
+      "title_en": "Data Center Design Certifications",
+      "title_fa": "گواهینامه‌های طراحی مرکز داده",
+      "issuer_en": "TIAM Networks",
+      "issuer_fa": "شبکه‌های تیام",
+      "date_en": "Jan 2022",
+      "date_fa": "دی ۱۴۰۰",
+      "desc_en": "Focuses on designing, constructing, and maintaining scalable and secure data center infrastructures.",
+      "desc_fa": "تمرکز بر طراحی، ساخت و نگهداری زیرساخت‌های مرکز داده مقیاس‌پذیر و امن."
+    },
+    {
+      "title_en": "LPIC-2",
+      "title_fa": "LPIC-2",
+      "issuer_en": "Arjang Institute of Higher Education",
+      "issuer_fa": "موسسه آموزش عالی ارژنگ",
+      "date_en": "Mar 2019",
+      "date_fa": "اسفند ۱۳۹۷",
+      "desc_en": "Validates advanced Linux system administration skills, including networking, security, and service management.",
+      "desc_fa": "تأیید مهارت‌های پیشرفته مدیریت سیستم لینوکس، شامل شبکه‌سازی، امنیت و مدیریت خدمات."
+    },
+    {
+      "title_en": "IT Project Management",
+      "title_fa": "مدیریت پروژه فناوری اطلاعات",
+      "issuer_en": "Tehran Institute of Technology",
+      "issuer_fa": "مجتمع فنی تهران",
+      "date_en": "Sep 2018",
+      "date_fa": "شهریور ۱۳۹۷",
+      "desc_en": "Provides comprehensive knowledge of project planning, execution, and monitoring in IT environments.",
+      "desc_fa": "ارائه دانش جامع برنامه‌ریزی، اجرا و نظارت بر پروژه در محیط‌های IT."
+    },
+    {
+      "title_en": "IT Service Management (ITSM)",
+      "title_fa": "مدیریت خدمات فناوری اطلاعات (ITSM)",
+      "issuer_en": "Tehran Institute of Technology",
+      "issuer_fa": "مجتمع فنی تهران",
+      "date_en": "Sep 2018",
+      "date_fa": "شهریور ۱۳۹۷",
+      "desc_en": "Covers best practices for managing IT services, including incident, change, and service level management.",
+      "desc_fa": "پوشش بهترین شیوه‌ها برای مدیریت خدمات IT، شامل مدیریت رخداد، تغییر و سطح خدمات."
+    },
+    {
+      "title_en": "Certified Ethical Hacker (CEH)",
+      "title_fa": "هکر قانونمند (CEH)",
+      "issuer_en": "Arjang Institute of Higher Education",
+      "issuer_fa": "موسسه آموزش عالی ارژنگ",
+      "date_en": "Aug 2018",
+      "date_fa": "مرداد ۱۳۹۷",
+      "desc_en": "Validates skills in identifying vulnerabilities, performing penetration tests, and safeguarding systems from cyber threats.",
+      "desc_fa": "تأیید مهارت‌ها در شناسایی آسیب‌پذیری‌ها، انجام تست‌های نفوذ و حفاظت از سیستم‌ها."
+    },
+    {
+      "title_en": "LPIC-1",
+      "title_fa": "LPIC-1",
+      "issuer_en": "Arjang Institute of Higher Education",
+      "issuer_fa": "موسسه آموزش عالی ارژنگ",
+      "date_en": "Aug 2018",
+      "date_fa": "مرداد ۱۳۹۷",
+      "desc_en": "Validates fundamental Linux system administration skills, including installation, configuration, and basic troubleshooting.",
+      "desc_fa": "تأیید مهارت‌های بنیادین مدیریت سیستم لینوکس، شامل نصب، پیکربندی و عیب‌یابی اولیه."
+    },
+    {
+      "title_en": "Cloud Computing",
+      "title_fa": "رایانش ابری",
+      "issuer_en": "Tehran Institute of Technology",
+      "issuer_fa": "مجتمع فنی تهران",
+      "date_en": "Dec 2016",
+      "date_fa": "آذر ۱۳۹۵",
+      "desc_en": "Provides foundational knowledge of cloud computing technologies, architectures, and deployment strategies.",
+      "desc_fa": "ارائه دانش بنیادین فناوری‌های رایانش ابری، معماری‌ها و استراتژی‌های استقرار."
+    }
+  ]
+}

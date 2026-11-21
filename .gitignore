@@ -1,0 +1,8 @@
+.DS_Store
+
+# PHP admin panel only works on a PHP server, and holds the password hash.
+# Keep it out of the public repo.
+admin/
+data/config.json
+data/*.bak
+data/.htaccess
